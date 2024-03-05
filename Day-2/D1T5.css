@@ -1,0 +1,33 @@
+
+.card
+{
+    border: 1px solid gray;
+    width : 200px;
+    height: 250px;
+    margin: 5px;
+    text-align: center;
+    padding : 5px; 
+    float: left;
+}
+
+.card  img
+{
+    width : 100px;
+    height: 100px;
+    border-radius: 100px;
+    padding : 1px;
+    border: 1px solid gray;;
+}
+
+.card img:hover
+{
+    box-shadow: 1px 1px 10px rgb(101, 196, 228);  
+}
+
+.email
+{
+    color : gray;
+    font-size:  20px;
+    margin: 0px;    
+} 
+
